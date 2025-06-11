@@ -8,10 +8,10 @@
 **Subcategoria: [INSIRA AQUI]**
 
 ## 👨‍💻 Estudante
-- Nome completo: [Seu nome]
-- Série/Ano: [Sua série ou ano escolar]
-- Escola: [Nome da escola]
-- Município: [Nome do município]
+- Nome completo: Isaac Habel Lauz Aires
+- Série/Ano: 3º
+- Escola: Colégio Estadual Professor Amálio Pinheiro
+- Município: Ponta Grossa
 - NRE: [Nome do Núcleo Regional de Educação]
 
 ## 👨‍🏫 Professor Orientador
@@ -25,7 +25,6 @@ Descreva de forma clara o que o seu projeto propõe a fazer. Fale sobre o proble
 Explique resumidamente o funcionamento do seu projeto. O que ele faz? Como ele contribui com a conexão entre campo e cidade?
 
 ## ⚙️ Tecnologias Utilizadas
-- [ ] Scratch
 - [ ] JavaScript com p5.js
 - [ ] HTML/CSS
 - Outras: [Se aplicável]
