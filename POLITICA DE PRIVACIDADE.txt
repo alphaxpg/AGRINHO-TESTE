@@ -1,0 +1,57 @@
+Atenção: Esta Política de Privacidade é elaborada para fins de demonstração no contexto do torneio "Agrinho-2025". Ela representa um modelo conceitual de como a privacidade de dados seria tratada em uma plataforma real, e não se aplica à coleta de dados em produção, pois este site não estará online.
+
+Política de Privacidade da Plataforma "Campo & Cidade"
+A sua privacidade é muito importante para nós da "Campo & Cidade". Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e protegemos suas informações pessoais ao utilizar nossa plataforma.
+
+1. Quais informações coletamos?
+Considerando o código HTML fornecido, a plataforma parece coletar informações principalmente através de um formulário de contato. As informações que podemos coletar incluem:
+
+Informações fornecidas por você:
+Dados de Contato: Nome completo, e-mail, telefone (quando você preenche o formulário de contato).
+Mensagem: O conteúdo da sua mensagem enviada através do formulário de contato.
+Informações de uso:
+Dados de Navegação: Embora o código HTML não implemente diretamente a coleta de dados de navegação para análise (como Google Analytics, por exemplo), é comum que plataformas web coletem informações sobre como os usuários interagem com o site, como páginas visitadas, tempo de permanência, tipo de navegador, sistema operacional e endereço IP. (Observação: Se você planeja implementar ferramentas de análise, isso deve ser explicitamente mencionado aqui e na sua implementação).
+Preferências de Acessibilidade: As opções de alto contraste e aumento de fonte são armazenadas localmente no navegador (via JavaScript, conforme indicado pelo script.js e tailwind-config.js), e não são enviadas ou armazenadas em nossos servidores.
+2. Como usamos suas informações?
+As informações coletadas são utilizadas para as seguintes finalidades:
+
+Comunicação: Para responder às suas perguntas e solicitações enviadas através do formulário de contato.
+Melhoria da Plataforma: Para entender como a plataforma é utilizada e aprimorar a experiência do usuário. (Se você implementar análises, essa finalidade será mais relevante).
+Divulgação e Marketing: Para enviar informações sobre nossos serviços, atualizações e notícias (somente se você tiver dado seu consentimento explícito para isso, o que não é o caso do formulário atual).
+3. Compartilhamento de Informações
+A "Campo & Cidade" não vende, aluga ou compartilha suas informações pessoais com terceiros, exceto nas seguintes situações:
+
+Prestadores de Serviços: Podemos compartilhar informações com prestadores de serviços que nos ajudam a operar a plataforma (ex: serviços de hospedagem, e-mail marketing, se aplicável), sempre sob rigorosos acordos de confidencialidade e apenas para os fins específicos para os quais foram contratados.
+Exigência Legal: Podemos divulgar suas informações se exigido por lei, ordem judicial ou para proteger nossos direitos e interesses.
+Consentimento: Com seu consentimento explícito, podemos compartilhar suas informações para outras finalidades.
+4. Armazenamento e Segurança das Informações
+Tomamos medidas razoáveis para proteger as informações pessoais que coletamos contra acesso não autorizado, uso indevido, divulgação, alteração ou destruição. No entanto, é importante lembrar que nenhuma transmissão de dados pela internet é 100% segura.
+
+5. Seus Direitos (LGPD)
+De acordo com a Lei Geral de Proteção de Dados (LGPD), você tem os seguintes direitos em relação aos seus dados pessoais:
+
+Acesso: Direito de saber quais dados pessoais temos sobre você.
+Retificação: Direito de corrigir dados incompletos, inexatos ou desatualizados.
+Eliminação: Direito de solicitar a exclusão de seus dados pessoais, ressalvadas as exceções legais.
+Portabilidade: Direito de receber seus dados em formato estruturado e transmitir a outro fornecedor de serviço.
+Oposição: Direito de se opor ao tratamento de seus dados quando não for de acordo com a lei.
+Revogação do Consentimento: Direito de retirar o consentimento a qualquer momento, sem afetar a legalidade do tratamento realizado antes da revogação.
+Para exercer seus direitos, entre em contato conosco através do e-mail: airessisaac@gmail.com.
+
+6. Cookies e Tecnologias Semelhantes
+Atualmente, o código HTML fornecido não indica o uso de cookies para rastreamento de usuários ou análise de dados. As funcionalidades de contraste e tamanho de fonte são controladas por JavaScript que manipula classes CSS e possivelmente armazena preferências no localStorage do navegador, o que é uma prática comum para melhorar a usabilidade e não envia dados para o servidor.
+
+(Observação: Se você planeja usar cookies para outras finalidades, como Google Analytics, publicidade ou personalização, esta seção deve ser expandida para descrever quais cookies são usados, suas finalidades e como os usuários podem gerenciá-los.)
+
+7. Alterações nesta Política de Privacidade
+Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer alterações serão publicadas nesta página com a data da última atualização. Recomendamos que você revise esta política regularmente.
+
+8. Contato
+Se você tiver alguma dúvida sobre esta Política de Privacidade ou sobre nossas práticas de dados, entre em contato conosco através do e-mail: airessisaac@gmail.com.
+
+Pontos de atenção e próximos passos:
+
+Revisão Jurídica: É crucial que um advogado especializado em direito digital revise e adapte estes documentos para garantir total conformidade com a LGPD e outras leis aplicáveis.
+Finalidades de Coleta: Seja o mais transparente possível sobre as finalidades para as quais você coleta dados. Se houver planos futuros de coletar mais dados (ex: cadastro de usuários, sistema de login para agricultores/consumidores, etc.), essas finalidades e os tipos de dados devem ser incluídos na política.
+Ferramentas de Análise: Se você for integrar ferramentas como Google Analytics, Hotjar, etc., você precisará detalhar na Política de Privacidade quais dados essas ferramentas coletam e como elas os utilizam, além de incluir uma política de cookies mais robusta.
+Consentimento: Para qualquer coleta de dados pessoais, especialmente se for além do formulário de contato básico, você deve implementar mecanismos para obter o consentimento claro e inequívoco do usuário.
